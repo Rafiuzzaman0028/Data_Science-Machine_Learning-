@@ -1,0 +1,8 @@
+
+#### **requirements.txt**
+Include the necessary Python libraries:
+```plaintext
+tensorflow==2.8.0
+numpy
+opencv-python
+matplotlib
