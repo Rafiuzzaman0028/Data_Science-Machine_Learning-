@@ -35,7 +35,7 @@ realtime-object-detection/
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/realtime-object-detection.git
+   git clone https://github.com/Rafiuzzaman0028/realtime-object-detection.git
    cd realtime-object-detection
    ```
 
