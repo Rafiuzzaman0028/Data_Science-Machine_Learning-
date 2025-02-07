@@ -82,4 +82,6 @@ This project relies on the following libraries:
 
 ## Acknowledgments
 This project uses TensorFlow's Object Detection API and pre-trained models. Special thanks to TensorFlow and the open-source community for their contributions.
-
+## Try out
+I follow the Tensorflow 2.0 object_detection_api tutorial 
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
